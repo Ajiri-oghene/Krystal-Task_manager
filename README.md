@@ -55,8 +55,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/task_manager.git
-cd task_manager
+git clone https://github.com/Ajiri-oghene/Krystal-Task_manager
+cd Task_manager
 
 # Get dependencies
 flutter pub get
